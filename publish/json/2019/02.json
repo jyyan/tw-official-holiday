@@ -1,0 +1,114 @@
+[
+  {
+    "date": "20190202",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20190203",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20190204",
+    "year": "2019",
+    "name": "農曆除夕",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日。"
+  },
+  {
+    "date": "20190205",
+    "year": "2019",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校於二月五日至二月七日放假三日，其中二月七日適逢星期四，調整二月八日為放假日，並於一月十九日補行上班一日。"
+  },
+  {
+    "date": "20190206",
+    "year": "2019",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校於二月五日至二月七日放假三日，其中二月七日適逢星期四，調整二月八日為放假日，並於一月十九日補行上班一日。"
+  },
+  {
+    "date": "20190207",
+    "year": "2019",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校於二月五日至二月七日放假三日，其中二月七日適逢星期四，調整二月八日為放假日，並於一月十九日補行上班一日。"
+  },
+  {
+    "date": "20190208",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "調整放假日",
+    "description": null
+  },
+  {
+    "date": "20190209",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20190210",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20190216",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20190217",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20190223",
+    "year": "2019",
+    "name": null,
+    "isholiday": "否",
+    "holidaycategory": "補行上班日",
+    "description": null
+  },
+  {
+    "date": "20190224",
+    "year": "2019",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20190228",
+    "year": "2019",
+    "name": "和平紀念日",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日，適逢星期四，調整三月一日為放假日，並於二月二十三日補行上班一日。"
+  }
+]

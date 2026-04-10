@@ -1,0 +1,82 @@
+[
+  {
+    "date": "20200402",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": null
+  },
+  {
+    "date": "20200403",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  },
+  {
+    "date": "20200404",
+    "year": "2020",
+    "name": "兒童節、民族掃墓節（清明節）",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日，兒童節與民族掃墓節同一日且逢星期六，於四月二日補假一日、四月三日放假一日。"
+  },
+  {
+    "date": "20200405",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200411",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200412",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200418",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200419",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200425",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200426",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  }
+]

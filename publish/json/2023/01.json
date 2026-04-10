@@ -1,0 +1,130 @@
+[
+  {
+    "date": "20230101",
+    "year": "2023",
+    "name": "中華民國開國紀念日",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日，適逢星期日，於一月二日補假一日。"
+  },
+  {
+    "date": "20230102",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": null
+  },
+  {
+    "date": "20230107",
+    "year": "2023",
+    "name": null,
+    "isholiday": "否",
+    "holidaycategory": "補行上班日",
+    "description": null
+  },
+  {
+    "date": "20230108",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20230114",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20230115",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20230120",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "調整放假日",
+    "description": null
+  },
+  {
+    "date": "20230121",
+    "year": "2023",
+    "name": "農曆除夕",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日，適逢星期六，於一月二十五日補假一日；小年夜(一月二十日)適逢星期五，調整為放假日，並於一月七日補行上班一日。"
+  },
+  {
+    "date": "20230122",
+    "year": "2023",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校於一月二十二日至一月二十四日放假三日，其中春節初一適逢星期日，於一月二十六日補假一日；一月二十七日調整放假，並於二月四日補行上班一日。"
+  },
+  {
+    "date": "20230123",
+    "year": "2023",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  },
+  {
+    "date": "20230124",
+    "year": "2023",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  },
+  {
+    "date": "20230125",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": null
+  },
+  {
+    "date": "20230126",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": null
+  },
+  {
+    "date": "20230127",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "調整放假日",
+    "description": null
+  },
+  {
+    "date": "20230128",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20230129",
+    "year": "2023",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  }
+]

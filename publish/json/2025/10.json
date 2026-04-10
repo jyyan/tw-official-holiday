@@ -1,0 +1,90 @@
+[
+  {
+    "date": "20251004",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20251005",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20251006",
+    "year": "2025",
+    "name": "中秋節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日。"
+  },
+  {
+    "date": "20251010",
+    "year": "2025",
+    "name": "國慶日",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日。"
+  },
+  {
+    "date": "20251011",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20251012",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20251018",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20251019",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20251024",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": "光復暨金門古寧頭大捷紀念日適逢星期六，則於前一日10/24(五)補假一日"
+  },
+  {
+    "date": "20251025",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  },
+  {
+    "date": "20251026",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  }
+]

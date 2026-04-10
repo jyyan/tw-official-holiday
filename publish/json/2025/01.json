@@ -1,0 +1,114 @@
+[
+  {
+    "date": "20250101",
+    "year": "2025",
+    "name": "中華民國開國紀念日",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日。"
+  },
+  {
+    "date": "20250104",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250105",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250111",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250112",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250118",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250119",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250125",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250126",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250127",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "調整放假日",
+    "description": "全國各機關學校放假一日，小年夜(一月二十七日)適逢星期一，調整為放假日，並於二月八日補行上班一日。"
+  },
+  {
+    "date": "20250128",
+    "year": "2025",
+    "name": "農曆除夕",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  },
+  {
+    "date": "20250129",
+    "year": "2025",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  },
+  {
+    "date": "20250130",
+    "year": "2025",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  },
+  {
+    "date": "20250131",
+    "year": "2025",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": null
+  }
+]

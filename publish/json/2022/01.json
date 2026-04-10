@@ -1,0 +1,90 @@
+[
+  {
+    "date": "20220101",
+    "year": "2022",
+    "name": "中華民國開國紀念日",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日，適逢星期六，於一一○年十二月三十一日補假一日。"
+  },
+  {
+    "date": "20220102",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220108",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220109",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220115",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220116",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220122",
+    "year": "2022",
+    "name": null,
+    "isholiday": "否",
+    "holidaycategory": "補行上班日",
+    "description": null
+  },
+  {
+    "date": "20220123",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220129",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220130",
+    "year": "2022",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20220131",
+    "year": "2022",
+    "name": "農曆除夕",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日。"
+  }
+]

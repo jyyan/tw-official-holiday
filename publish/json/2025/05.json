@@ -1,0 +1,90 @@
+[
+  {
+    "date": "20250501",
+    "year": "2025",
+    "name": "勞動節",
+    "isholiday": "是",
+    "holidaycategory": "特定節日",
+    "description": "勞工放假一日。"
+  },
+  {
+    "date": "20250503",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250504",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250510",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250511",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250517",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250518",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250524",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250525",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20250530",
+    "year": "2025",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": null
+  },
+  {
+    "date": "20250531",
+    "year": "2025",
+    "name": "端午節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日。"
+  }
+]

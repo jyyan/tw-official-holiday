@@ -1,0 +1,114 @@
+[
+  {
+    "date": "20200101",
+    "year": "2020",
+    "name": "中華民國開國紀念日",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日。"
+  },
+  {
+    "date": "20200104",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200105",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200111",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200112",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200118",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200119",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "星期六、星期日",
+    "description": null
+  },
+  {
+    "date": "20200123",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "調整放假日",
+    "description": null
+  },
+  {
+    "date": "20200124",
+    "year": "2020",
+    "name": "農曆除夕",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校放假一日，前一日(一月二十三日)功能性調整放假，並於二月十五日補行上班一日。"
+  },
+  {
+    "date": "20200125",
+    "year": "2020",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校於一月二十五日至一月二十七日放假三日，其中春節初一、初二適逢星期六、日，分別於一月二十八日及一月二十九日各補假一日。"
+  },
+  {
+    "date": "20200126",
+    "year": "2020",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校於一月二十五日至一月二十七日放假三日，其中春節初一、初二適逢星期六、日，分別於一月二十八日及一月二十九日各補假一日。"
+  },
+  {
+    "date": "20200127",
+    "year": "2020",
+    "name": "春節",
+    "isholiday": "是",
+    "holidaycategory": "放假之紀念日及節日",
+    "description": "全國各機關學校於一月二十五日至一月二十七日放假三日，其中春節初一、初二適逢星期六、日，分別於一月二十八日及一月二十九日各補假一日。"
+  },
+  {
+    "date": "20200128",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": null
+  },
+  {
+    "date": "20200129",
+    "year": "2020",
+    "name": null,
+    "isholiday": "是",
+    "holidaycategory": "補假",
+    "description": null
+  }
+]
